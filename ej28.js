@@ -1,0 +1,11 @@
+let numero = 9
+console.log('9 * 1 = '+numero*1)
+console.log('9 * 2 = '+numero*2)
+console.log('9 * 3 = '+numero*3)
+console.log('9 * 4 = '+numero*4)
+console.log('9 * 5 = '+numero*5)
+console.log('9 * 6 = '+numero*6)
+console.log('9 * 7 = '+numero*7)
+console.log('9 * 8 = '+numero*8)
+console.log('9 * 9 = '+numero*9)
+console.log('9 * 10 ='+numero*10)
